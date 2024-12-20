@@ -52,7 +52,7 @@ body, ul {
 }
 
 .nav-list a:hover {
-  color: #ccc; /* Slightly lighter color on hover */
+  color: #ccc;
 }
 
 .logo {
@@ -180,7 +180,6 @@ body, ul {
   
   .work {
     margin: 0;
-    font-family: Arial, sans-serif;
     color: white;
     background-color:#0D020DB2 70%;
     background-color: #7000701D ;
