@@ -382,7 +382,7 @@ body, ul {
 	margin-top: 29px;
 }
  .vertical-line {
-width: 2px;
+  width: 2px;
   height: 70px;
   background-color: gray;
   margin-top: auto;
@@ -588,7 +588,6 @@ width: 2px;
     font-size: 2.5em;
     color: #ff007f;
     margin: 2em 0;
-    font-family: Arial, sans-serif;
     text-transform: uppercase;
 }
   
